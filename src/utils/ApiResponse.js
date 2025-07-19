@@ -6,3 +6,5 @@ class ApiResponse{
         this.success = statuecode < 400
 }
 }
+
+export {ApiResponse}
